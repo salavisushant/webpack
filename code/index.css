@@ -1,0 +1,40 @@
+.redcolor{
+    color:black;
+    text-align: center;
+}
+#logo{
+    height: 50px;
+    display: flex;
+    margin-top: 0.5%;
+    margin-left: 0.5%;
+}
+#root {
+    display: inline-block;
+    margin-left: 40%;
+    font-weight: 600;
+    font-size:20px;
+    height:20%
+}
+#nav {
+    display: flex;
+    border: 2px solid black;
+}
+#addNote {
+    width: 80%;
+    margin-top:2%;
+    height:20px;
+    border: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+#list {
+    list-style: none;
+    margin-left: 35%;
+    font-size: 25px;
+}
+button{
+    background-color: #F37636;
+    border: none;
+    color: white;
+    
+}
